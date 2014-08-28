@@ -1,0 +1,4 @@
+== README
+
+Sử dụng mongodb trên Rails với gem mongoid
+
